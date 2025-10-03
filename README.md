@@ -2,7 +2,7 @@
 
 A Basic House price prediction model on a fixed dataset
 <br>
-Author - Sachin Rajesh ; Deeya Maria Sajeev ; Advaid Mohan
+Authors - Sachin Rajesh ; Deeya Maria Sajeev ; Advaid Mohan
 <br>
 # Project Link
 Open project in Colab:<br>
